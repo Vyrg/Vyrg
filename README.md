@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vyrg
+- 📖 Computer engineering student at Politecnico di Milano
+- 🌱 I’m currently learning Python and algorithms
