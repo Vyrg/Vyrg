@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Vyrg
+- 👋 Hi, I’m Virgilio
 - 📖 Computer engineering student at Politecnico di Milano
-- 🌱 I’m currently learning Python and algorithms
